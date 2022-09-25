@@ -85,9 +85,9 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p53 - cuadro de asteriscos
 
 ## Tarea 4
-- p55 – números de 10 en 10 hasta n
-- p56 – suma de todos los pares entre 1 y n
-- p57 – secuencia de n renglones
-- p58 – secuencia de n renglones v2
-- p59 – secuencia de n términos armónicos
-- p60 – secuencia de n términos v2
+- p54 – números de 10 en 10 hasta n
+- p55 – suma de todos los pares entre 1 y n
+- p56 – secuencia de n renglones
+- p57 – secuencia de n renglones v2
+- p58 – secuencia de n términos armónicos
+- p59 – secuencia de n términos v2
