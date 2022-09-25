@@ -70,3 +70,9 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p43 - Numero mayor
   
 
+## Actividad 7
+p44 - números de 1 a 100 con for
+p45 - números de 100 a 1 con for
+p46 – arriba y abajo
+p47 – suma de pares e impares
+p48 – suma de n números
