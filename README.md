@@ -76,3 +76,10 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p46 – arriba y abajo
 - p47 – suma de pares e impares
 - p48 – suma de n números
+
+## Actividad 8
+- p49 - factorial
+- p50 - tabla de multiplicar con for
+- p51 - tabla de multiplicar con for v2
+- p52 - pirámide de asteriscos
+- p53 - cuadro de asteriscos
