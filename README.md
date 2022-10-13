@@ -114,3 +114,10 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p72 – agregar lista
 - p73 – remover lista
 - p74 – iterar lista
+
+## Actividad 12
+- p75 – procesar calificaciones
+- p76– sumar dos listas de n números
+- p77 – día de paga
+- p78 - nombres y edades
+- p79 – listas con aleatorios
