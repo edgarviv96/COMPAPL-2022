@@ -107,3 +107,10 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p67 – contar letras, dígitos, símbolos v2
 - p68 – juntar palabras
 - p69 - tabla conversiones
+
+## Actividad 11
+- p70 – acceder lista
+- p71 – cambiar lista
+- p72 – agregar lista
+- p73 – remover lista
+- p74 – iterar lista
