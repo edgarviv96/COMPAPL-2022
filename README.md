@@ -91,3 +91,8 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p57 – secuencia de n renglones v2
 - p58 – secuencia de n términos armónicos
 - p59 – secuencia de n términos v2
+
+## Actividad 9
+- p60 - vocales, consonantes
+- p61 - contar letras, dígitos, símbolos
+- p62 - dividir en palabras y contar
