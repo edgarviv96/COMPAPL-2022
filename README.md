@@ -96,3 +96,8 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p60 - vocales, consonantes
 - p61 - contar letras, dígitos, símbolos
 - p62 - dividir en palabras y contar
+
+## Actividad 10
+- p63 - procesar texto
+- p64 - formateo de datos ejemplo 1
+- p65 - formateo de datos ejemplo 2
