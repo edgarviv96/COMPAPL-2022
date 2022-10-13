@@ -101,3 +101,9 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p63 - procesar texto
 - p64 - formateo de datos ejemplo 1
 - p65 - formateo de datos ejemplo 2
+
+## Tarea 05
+- p66 – vocales, consonantes v2
+- p67 – contar letras, dígitos, símbolos v2
+- p68 – juntar palabras
+- p69 - tabla conversiones
