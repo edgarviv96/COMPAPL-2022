@@ -121,3 +121,33 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p77 – día de paga
 - p78 - nombres y edades
 - p79 – listas con aleatorios
+
+## Tarea 06
+- p80 – procesar notas de clase
+- p81 – listas multiplica
+- p82 – mes días y nombre
+- p83 – listas aleatorios suma
+- p84 - ciudades
+- p85 - lista impares
+
+## Actividad 13
+- p86 – trabajando con conjuntos
+- p87 – operaciones entre conjuntos
+
+## Tarea 07
+- p88 - personas
+- p89 - numeros
+
+## Actividad 14
+- p90 - estudiante
+- p91 - calificaciones
+
+## Actividad 15
+- p92 - nombres y edades
+- p93 - procesar pizza
+- p94 - estudiantes
+
+## Tarea 08
+- p95 - dias de la semana
+- p96 - numeros romanos
+- p97 - contar caracteres
