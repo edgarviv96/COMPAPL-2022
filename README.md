@@ -151,3 +151,14 @@ Este repositorio contiene los programas en python desarrolados durante la clase
 - p95 - dias de la semana
 - p96 - numeros romanos
 - p97 - contar caracteres
+
+## Actividad 16
+- p98 - tabla de multiplicar
+- p99 - cuadro carácter
+- p100 - numero mayor
+- p101 - estación del año
+- p102 - temperatura
+- p103 - suma dígitos
+- p104 - factorial
+- p105 - calificación con letra
+- p106 - suma números en un rango
