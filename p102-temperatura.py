@@ -9,6 +9,6 @@ op = int(input("Elige ?"))
 if op==1 :
     temp = int(input('Dame una temperatura en Centigrados? '))
     print(f'La temperatura en grados Farenheit es {farenheit(temp)}')
-elif op==2:
+elif op==2: 
     temp = int(input('Dame una temperatura en Farenheit? '))
     print(f'La temperatura en grados Centigrados es {centigrados(temp)}')

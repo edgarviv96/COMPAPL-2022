@@ -8,5 +8,5 @@ def mayor(c1,c2,c3):
         may = c3
     return may
 print("Dame 3 calificaciones")
-a,b,c = float(input()), float(input()), float(input())
+a,b,c = float(input()), float(input()), float(input()) 
 print(f"la calificacion mayor es: {mayor(a,b,c)}")

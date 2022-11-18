@@ -11,5 +11,5 @@ def estacion(n):
     else:
         est=''
     return est
-n = int(input('Dame la estacion del a#o (1-4) ? '))
-print(f'La estacion del a#o es {estacion(n)}')
+n = int(input('Dame la estacion del a#o (1-4) ? ')) 
+print(f'La estacion del a#o es {estacion(n)}') 

@@ -8,4 +8,4 @@ def sumadigitos(n):
     return suma
 n = int(input("Dame un numero y sumaré sus dígitos :? "))
 res = sumadigitos(n)
-print(f"La suma de los dígitos de {n} es {res}")
+print(f"La suma de los dígitos de {n} es {res}") 
