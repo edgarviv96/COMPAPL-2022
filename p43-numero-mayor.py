@@ -1,19 +1,14 @@
-print("Ejercicio 1 :v")
-print()
- 
-numeros = []
-nDatos = int(input("Cuántos números desea registrar? "))
- 
-for i in range(nDatos):
-    N = int(input("Digite el número "))
-    numeros.append(N)
- 
-print("\nLista de números ingresados: ", numeros,"\n")
- 
-for i in range(len(numeros)-1):
-    for j in range(len(numeros) -1):
-        if numeros[j] > numeros[j+1]:
-            numeros[j], numeros[j+1] = numeros[j+1], numeros[j]
- 
-print("Lista ordenada", numeros)
-print("El número mayor es: ", numeros[i+1])
+#calcula el numero mayor al precionar 0 finaliza el proceso
+
+print('calcula el numero mayor (precona 0 para finalizar)')
+
+m=0
+
+while(True):
+    num=int(input('Dame un nuero ?'))
+    if num!=0:
+        if num>m:
+            m=num
+    else:
+        break
+print(f'el numero mayor es {m}') 
